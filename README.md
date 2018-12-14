@@ -1,7 +1,7 @@
 # BoxPlots
 ## Semester 2 Project
 
-The Jupyter ipynb in this Repository sets out a review of Boxplots. It contains the following data
+The ![Jupyter]([https://jupyter.org/)  ipynb in this Repository sets out a review of Boxplots. It contains the following data
 
 * A history of the box plot and situations in which it used.
 * A definition of the % Number Summary and its relationship to BoxPlot
